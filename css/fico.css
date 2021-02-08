@@ -1,0 +1,724 @@
+@font-face {
+	font-family: "fico";
+	src: url("../fonts/icons/fico.eot");
+	src: url("../fonts/icons/fico.eot?#iefix") format("eot"),
+		url("../fonts/icons/fico.woff2") format("woff2"), url("../fonts/icons/fico.woff") format("woff"),
+		url("../fonts/icons/fico.ttf") format("truetype"),
+		url("../fonts/icons/fico.svg#fico") format("svg");
+}
+
+.fico:before {
+	font-family: "fico";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+.fico-a:before {
+	content: "\E001";
+}
+
+.fico-add-event:before {
+	content: "\E002";
+}
+
+.fico-add-payment:before {
+	content: "\E003";
+}
+
+.fico-air-conditioner:before {
+	content: "\E004";
+}
+
+.fico-arrow-up:before {
+	content: "\E005";
+}
+
+.fico-arrow:before {
+	content: "\E006";
+}
+
+.fico-attention:before {
+	content: "\E007";
+}
+
+.fico-auto-reg:before {
+	content: "\E008";
+}
+
+.fico-b:before {
+	content: "\E009";
+}
+
+.fico-baby-seat-0-1:before {
+	content: "\E00A";
+}
+
+.fico-baby-seat-1-3:before {
+	content: "\E00B";
+}
+
+.fico-baby-seat-3-7:before {
+	content: "\E00C";
+}
+
+.fico-balance:before {
+	content: "\E00D";
+}
+
+.fico-battery:before {
+	content: "\E00E";
+}
+
+.fico-bell:before {
+	content: "\E00F";
+}
+
+.fico-building:before {
+	content: "\E010";
+}
+
+.fico-c:before {
+	content: "\E011";
+}
+
+.fico-cabin-filter:before {
+	content: "\E012";
+}
+
+.fico-calendar-check:before {
+	content: "\E013";
+}
+
+.fico-calendar-in:before {
+	content: "\E014";
+}
+
+.fico-calendar-out:before {
+	content: "\E015";
+}
+
+.fico-calendar:before {
+	content: "\E016";
+}
+
+.fico-camera:before {
+	content: "\E017";
+}
+
+.fico-cancel:before {
+	content: "\E018";
+}
+
+.fico-card:before {
+	content: "\E019";
+}
+
+.fico-cash:before {
+	content: "\E01A";
+}
+
+.fico-chain:before {
+	content: "\E01B";
+}
+
+.fico-change-car-oil:before {
+	content: "\E01C";
+}
+
+.fico-check-list:before {
+	content: "\E01D";
+}
+
+.fico-check-outline:before {
+	content: "\E01E";
+}
+
+.fico-check:before {
+	content: "\E01F";
+}
+
+.fico-checked:before {
+	content: "\E020";
+}
+
+.fico-checked2:before {
+	content: "\E021";
+}
+
+.fico-child-seat:before {
+	content: "\E022";
+}
+
+.fico-cleaner:before {
+	content: "\E023";
+}
+
+.fico-clock:before {
+	content: "\E024";
+}
+
+.fico-comment:before {
+	content: "\E025";
+}
+
+.fico-contacts:before {
+	content: "\E026";
+}
+
+.fico-contract:before {
+	content: "\E027";
+}
+
+.fico-crash:before {
+	content: "\E028";
+}
+
+.fico-crown:before {
+	content: "\E029";
+}
+
+.fico-csv:before {
+	content: "\E02A";
+}
+
+.fico-d:before {
+	content: "\E02B";
+}
+
+.fico-damages:before {
+	content: "\E02C";
+}
+
+.fico-danger-fill:before {
+	content: "\E02D";
+}
+
+.fico-danger:before {
+	content: "\E02E";
+}
+
+.fico-dashboard:before {
+	content: "\E02F";
+}
+
+.fico-database:before {
+	content: "\E030";
+}
+
+.fico-delete:before {
+	content: "\E031";
+}
+
+.fico-delivery-night:before {
+	content: "\E032";
+}
+
+.fico-delivery:before {
+	content: "\E033";
+}
+
+.fico-deposit:before {
+	content: "\E034";
+}
+
+.fico-doc-find:before {
+	content: "\E035";
+}
+
+.fico-doc:before {
+	content: "\E036";
+}
+
+.fico-document:before {
+	content: "\E037";
+}
+
+.fico-document2:before {
+	content: "\E038";
+}
+
+.fico-done:before {
+	content: "\E039";
+}
+
+.fico-down-arrow:before {
+	content: "\E03A";
+}
+
+.fico-driver-ad:before {
+	content: "\E03B";
+}
+
+.fico-driver-young:before {
+	content: "\E03C";
+}
+
+.fico-driver:before {
+	content: "\E03D";
+}
+
+.fico-edit:before {
+	content: "\E03E";
+}
+
+.fico-edit2:before {
+	content: "\E03F";
+}
+
+.fico-edit3:before {
+	content: "\E040";
+}
+
+.fico-email:before {
+	content: "\E041";
+}
+
+.fico-engine:before {
+	content: "\E042";
+}
+
+.fico-export:before {
+	content: "\E043";
+}
+
+.fico-eye:before {
+	content: "\E044";
+}
+
+.fico-filter:before {
+	content: "\E045";
+}
+
+.fico-finance:before {
+	content: "\E046";
+}
+
+.fico-food:before {
+	content: "\E047";
+}
+
+.fico-fuel-empty:before {
+	content: "\E048";
+}
+
+.fico-fuel-full:before {
+	content: "\E049";
+}
+
+.fico-fuel:before {
+	content: "\E04A";
+}
+
+.fico-gas-station:before {
+	content: "\E04B";
+}
+
+.fico-gas-station2:before {
+	content: "\E04C";
+}
+
+.fico-gas:before {
+	content: "\E04D";
+}
+
+.fico-gauge:before {
+	content: "\E04E";
+}
+
+.fico-gear:before {
+	content: "\E04F";
+}
+
+.fico-information:before {
+	content: "\E050";
+}
+
+.fico-information2:before {
+	content: "\E051";
+}
+
+.fico-insur-max:before {
+	content: "\E052";
+}
+
+.fico-insur-mid:before {
+	content: "\E053";
+}
+
+.fico-insur-min:before {
+	content: "\E054";
+}
+
+.fico-insur-pay:before {
+	content: "\E055";
+}
+
+.fico-insurance:before {
+	content: "\E056";
+}
+
+.fico-left:before {
+	content: "\E057";
+}
+
+.fico-license:before {
+	content: "\E058";
+}
+
+.fico-low-fuel:before {
+	content: "\E059";
+}
+
+.fico-maintenance:before {
+	content: "\E05A";
+}
+
+.fico-message:before {
+	content: "\E05B";
+}
+
+.fico-messages:before {
+	content: "\E05C";
+}
+
+.fico-mobile-app:before {
+	content: "\E05D";
+}
+
+.fico-more-v:before {
+	content: "\E05E";
+}
+
+.fico-more:before {
+	content: "\E05F";
+}
+
+.fico-move:before {
+	content: "\E060";
+}
+
+.fico-navigator:before {
+	content: "\E061";
+}
+
+.fico-notice:before {
+	content: "\E062";
+}
+
+.fico-np:before {
+	content: "\E063";
+}
+
+.fico-odometer:before {
+	content: "\E064";
+}
+
+.fico-oil-2:before {
+	content: "\E065";
+}
+
+.fico-oil:before {
+	content: "\E066";
+}
+
+.fico-oil2:before {
+	content: "\E067";
+}
+
+.fico-out-zone:before {
+	content: "\E068";
+}
+
+.fico-overbooking:before {
+	content: "\E069";
+}
+
+.fico-overheat:before {
+	content: "\E06A";
+}
+
+.fico-p:before {
+	content: "\E06B";
+}
+
+.fico-payment-arrow-down:before {
+	content: "\E06C";
+}
+
+.fico-payment-arrow-up:before {
+	content: "\E06D";
+}
+
+.fico-payment:before {
+	content: "\E06E";
+}
+
+.fico-payouts:before {
+	content: "\E06F";
+}
+
+.fico-pdf:before {
+	content: "\E070";
+}
+
+.fico-percent:before {
+	content: "\E071";
+}
+
+.fico-phone:before {
+	content: "\E072";
+}
+
+.fico-photo:before {
+	content: "\E073";
+}
+
+.fico-pie-chart:before {
+	content: "\E074";
+}
+
+.fico-place:before {
+	content: "\E075";
+}
+
+.fico-place2:before {
+	content: "\E076";
+}
+
+.fico-plane-down:before {
+	content: "\E077";
+}
+
+.fico-planner:before {
+	content: "\E078";
+}
+
+.fico-play:before {
+	content: "\E079";
+}
+
+.fico-plus:before {
+	content: "\E07A";
+}
+
+.fico-police:before {
+	content: "\E07B";
+}
+
+.fico-pressure:before {
+	content: "\E07C";
+}
+
+.fico-profile:before {
+	content: "\E07D";
+}
+
+.fico-proforma:before {
+	content: "\E07E";
+}
+
+.fico-promotion:before {
+	content: "\E07F";
+}
+
+.fico-protect:before {
+	content: "\E080";
+}
+
+.fico-question-filled:before {
+	content: "\E081";
+}
+
+.fico-question:before {
+	content: "\E082";
+}
+
+.fico-r:before {
+	content: "\E083";
+}
+
+.fico-remove:before {
+	content: "\E084";
+}
+
+.fico-remove2:before {
+	content: "\E085";
+}
+
+.fico-rentals:before {
+	content: "\E086";
+}
+
+.fico-repair-2:before {
+	content: "\E087";
+}
+
+.fico-repair:before {
+	content: "\E088";
+}
+
+.fico-reports:before {
+	content: "\E089";
+}
+
+.fico-reserves:before {
+	content: "\E08A";
+}
+
+.fico-right-arrow:before {
+	content: "\E08B";
+}
+
+.fico-right:before {
+	content: "\E08C";
+}
+
+.fico-search:before {
+	content: "\E08D";
+}
+
+.fico-settings:before {
+	content: "\E08E";
+}
+
+.fico-show-more:before {
+	content: "\E08F";
+}
+
+.fico-signal:before {
+	content: "\E090";
+}
+
+.fico-sim:before {
+	content: "\E091";
+}
+
+.fico-skype:before {
+	content: "\E092";
+}
+
+.fico-sort:before {
+	content: "\E093";
+}
+
+.fico-speed-limit:before {
+	content: "\E094";
+}
+
+.fico-statistics:before {
+	content: "\E095";
+}
+
+.fico-status:before {
+	content: "\E096";
+}
+
+.fico-sync:before {
+	content: "\E097";
+}
+
+.fico-tap:before {
+	content: "\E098";
+}
+
+.fico-tasks:before {
+	content: "\E099";
+}
+
+.fico-tax:before {
+	content: "\E09A";
+}
+
+.fico-telegram:before {
+	content: "\E09B";
+}
+
+.fico-time:before {
+	content: "\E09C";
+}
+
+.fico-tire:before {
+	content: "\E09D";
+}
+
+.fico-transmission:before {
+	content: "\E09E";
+}
+
+.fico-trunk:before {
+	content: "\E09F";
+}
+
+.fico-up:before {
+	content: "\E0A0";
+}
+
+.fico-upload:before {
+	content: "\E0A1";
+}
+
+.fico-user-add:before {
+	content: "\E0A2";
+}
+
+.fico-user-find:before {
+	content: "\E0A3";
+}
+
+.fico-user:before {
+	content: "\E0A4";
+}
+
+.fico-vehicles:before {
+	content: "\E0A5";
+}
+
+.fico-viber:before {
+	content: "\E0A6";
+}
+
+.fico-view:before {
+	content: "\E0A7";
+}
+
+.fico-vip:before {
+	content: "\E0A8";
+}
+
+.fico-wash:before {
+	content: "\E0A9";
+}
+
+.fico-water:before {
+	content: "\E0AA";
+}
+
+.fico-whatsapp:before {
+	content: "\E0AB";
+}
+
+.fico-wheel-chain:before {
+	content: "\E0AC";
+}
+
+.fico-wheel-winter:before {
+	content: "\E0AD";
+}
+
+.fico-wheel:before {
+	content: "\E0AE";
+}
+
+.fico-worldwide:before {
+	content: "\E0AF";
+}
+
+.fico-xlsx:before {
+	content: "\E0B0";
+}

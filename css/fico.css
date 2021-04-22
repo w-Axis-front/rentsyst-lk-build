@@ -75,650 +75,666 @@
 	content: "\E00E";
 }
 
-.fico-bell:before {
+.fico-bbq:before {
 	content: "\E00F";
 }
 
-.fico-building:before {
+.fico-bell:before {
 	content: "\E010";
 }
 
-.fico-c:before {
+.fico-bike:before {
 	content: "\E011";
 }
 
-.fico-cabin-filter:before {
+.fico-building:before {
 	content: "\E012";
 }
 
-.fico-calendar-check:before {
+.fico-c:before {
 	content: "\E013";
 }
 
-.fico-calendar-in:before {
+.fico-cabin-filter:before {
 	content: "\E014";
 }
 
-.fico-calendar-out:before {
+.fico-calendar-check:before {
 	content: "\E015";
 }
 
-.fico-calendar:before {
+.fico-calendar-in:before {
 	content: "\E016";
 }
 
-.fico-camera:before {
+.fico-calendar-out:before {
 	content: "\E017";
 }
 
-.fico-cancel:before {
+.fico-calendar:before {
 	content: "\E018";
 }
 
-.fico-card:before {
+.fico-camera:before {
 	content: "\E019";
 }
 
-.fico-cash:before {
+.fico-cancel:before {
 	content: "\E01A";
 }
 
-.fico-chain:before {
+.fico-card:before {
 	content: "\E01B";
 }
 
-.fico-change-car-oil:before {
+.fico-cash:before {
 	content: "\E01C";
 }
 
-.fico-check-list:before {
+.fico-chain:before {
 	content: "\E01D";
 }
 
-.fico-check-outline:before {
+.fico-change-car-oil:before {
 	content: "\E01E";
 }
 
-.fico-check:before {
+.fico-check-list:before {
 	content: "\E01F";
 }
 
-.fico-checked:before {
+.fico-check-outline:before {
 	content: "\E020";
 }
 
-.fico-checked2:before {
+.fico-check:before {
 	content: "\E021";
 }
 
-.fico-child-seat:before {
+.fico-checked:before {
 	content: "\E022";
 }
 
-.fico-cleaner:before {
+.fico-checked2:before {
 	content: "\E023";
 }
 
-.fico-clock:before {
+.fico-child-seat:before {
 	content: "\E024";
 }
 
-.fico-comment:before {
+.fico-cleaner:before {
 	content: "\E025";
 }
 
-.fico-contacts:before {
+.fico-clock:before {
 	content: "\E026";
 }
 
-.fico-contract:before {
+.fico-comment:before {
 	content: "\E027";
 }
 
-.fico-crash:before {
+.fico-contacts:before {
 	content: "\E028";
 }
 
-.fico-crown:before {
+.fico-contract:before {
 	content: "\E029";
 }
 
-.fico-csv:before {
+.fico-crash:before {
 	content: "\E02A";
 }
 
-.fico-d:before {
+.fico-crown:before {
 	content: "\E02B";
 }
 
-.fico-damages:before {
+.fico-csv:before {
 	content: "\E02C";
 }
 
-.fico-danger-fill:before {
+.fico-d:before {
 	content: "\E02D";
 }
 
-.fico-danger:before {
+.fico-damages:before {
 	content: "\E02E";
 }
 
-.fico-dashboard:before {
+.fico-danger-fill:before {
 	content: "\E02F";
 }
 
-.fico-database:before {
+.fico-danger:before {
 	content: "\E030";
 }
 
-.fico-delete:before {
+.fico-dashboard:before {
 	content: "\E031";
 }
 
-.fico-delivery-night:before {
+.fico-database:before {
 	content: "\E032";
 }
 
-.fico-delivery:before {
+.fico-delete:before {
 	content: "\E033";
 }
 
-.fico-deposit:before {
+.fico-delivery-night:before {
 	content: "\E034";
 }
 
-.fico-doc-find:before {
+.fico-delivery:before {
 	content: "\E035";
 }
 
-.fico-doc:before {
+.fico-deposit:before {
 	content: "\E036";
 }
 
-.fico-document:before {
+.fico-doc-find:before {
 	content: "\E037";
 }
 
-.fico-document2:before {
+.fico-doc:before {
 	content: "\E038";
 }
 
-.fico-done:before {
+.fico-document:before {
 	content: "\E039";
 }
 
-.fico-down-arrow:before {
+.fico-document2:before {
 	content: "\E03A";
 }
 
-.fico-driver-ad:before {
+.fico-done:before {
 	content: "\E03B";
 }
 
-.fico-driver-young:before {
+.fico-down-arrow:before {
 	content: "\E03C";
 }
 
-.fico-driver:before {
+.fico-driver-ad:before {
 	content: "\E03D";
 }
 
-.fico-edit:before {
+.fico-driver-young:before {
 	content: "\E03E";
 }
 
-.fico-edit2:before {
+.fico-driver:before {
 	content: "\E03F";
 }
 
-.fico-edit3:before {
+.fico-edit:before {
 	content: "\E040";
 }
 
-.fico-email:before {
+.fico-edit2:before {
 	content: "\E041";
 }
 
-.fico-engine:before {
+.fico-edit3:before {
 	content: "\E042";
 }
 
-.fico-export:before {
+.fico-email:before {
 	content: "\E043";
 }
 
-.fico-eye:before {
+.fico-engine:before {
 	content: "\E044";
 }
 
-.fico-filter:before {
+.fico-export:before {
 	content: "\E045";
 }
 
-.fico-finance:before {
+.fico-eye:before {
 	content: "\E046";
 }
 
-.fico-food:before {
+.fico-filter:before {
 	content: "\E047";
 }
 
-.fico-fuel-empty:before {
+.fico-finance:before {
 	content: "\E048";
 }
 
-.fico-fuel-full:before {
+.fico-food:before {
 	content: "\E049";
 }
 
-.fico-fuel:before {
+.fico-fuel-empty:before {
 	content: "\E04A";
 }
 
-.fico-gas-station:before {
+.fico-fuel-full:before {
 	content: "\E04B";
 }
 
-.fico-gas-station2:before {
+.fico-fuel:before {
 	content: "\E04C";
 }
 
-.fico-gas:before {
+.fico-gas-station:before {
 	content: "\E04D";
 }
 
-.fico-gauge:before {
+.fico-gas-station2:before {
 	content: "\E04E";
 }
 
-.fico-gear:before {
+.fico-gas:before {
 	content: "\E04F";
 }
 
-.fico-information:before {
+.fico-gauge:before {
 	content: "\E050";
 }
 
-.fico-information2:before {
+.fico-gear:before {
 	content: "\E051";
 }
 
-.fico-insur-max:before {
+.fico-information:before {
 	content: "\E052";
 }
 
-.fico-insur-mid:before {
+.fico-information2:before {
 	content: "\E053";
 }
 
-.fico-insur-min:before {
+.fico-insur-max:before {
 	content: "\E054";
 }
 
-.fico-insur-pay:before {
+.fico-insur-mid:before {
 	content: "\E055";
 }
 
-.fico-insurance:before {
+.fico-insur-min:before {
 	content: "\E056";
 }
 
-.fico-left:before {
+.fico-insur-pay:before {
 	content: "\E057";
 }
 
-.fico-license:before {
+.fico-insurance:before {
 	content: "\E058";
 }
 
-.fico-low-fuel:before {
+.fico-left:before {
 	content: "\E059";
 }
 
-.fico-maintenance:before {
+.fico-license:before {
 	content: "\E05A";
 }
 
-.fico-message:before {
+.fico-low-fuel:before {
 	content: "\E05B";
 }
 
-.fico-messages:before {
+.fico-maintenance:before {
 	content: "\E05C";
 }
 
-.fico-mobile-app:before {
+.fico-message:before {
 	content: "\E05D";
 }
 
-.fico-more-v:before {
+.fico-messages:before {
 	content: "\E05E";
 }
 
-.fico-more:before {
+.fico-mobile-app:before {
 	content: "\E05F";
 }
 
-.fico-move:before {
+.fico-more-v:before {
 	content: "\E060";
 }
 
-.fico-navigator:before {
+.fico-more:before {
 	content: "\E061";
 }
 
-.fico-notice:before {
+.fico-move:before {
 	content: "\E062";
 }
 
-.fico-np:before {
+.fico-navigator:before {
 	content: "\E063";
 }
 
-.fico-odometer:before {
+.fico-notice:before {
 	content: "\E064";
 }
 
-.fico-oil-2:before {
+.fico-np:before {
 	content: "\E065";
 }
 
-.fico-oil:before {
+.fico-odometer:before {
 	content: "\E066";
 }
 
-.fico-oil2:before {
+.fico-oil-2:before {
 	content: "\E067";
 }
 
-.fico-out-zone:before {
+.fico-oil:before {
 	content: "\E068";
 }
 
-.fico-overbooking:before {
+.fico-oil2:before {
 	content: "\E069";
 }
 
-.fico-overheat:before {
+.fico-out-zone:before {
 	content: "\E06A";
 }
 
-.fico-p:before {
+.fico-overbooking:before {
 	content: "\E06B";
 }
 
-.fico-payment-arrow-down:before {
+.fico-overheat:before {
 	content: "\E06C";
 }
 
-.fico-payment-arrow-up:before {
+.fico-p:before {
 	content: "\E06D";
 }
 
-.fico-payment:before {
+.fico-payment-arrow-down:before {
 	content: "\E06E";
 }
 
-.fico-payouts:before {
+.fico-payment-arrow-up:before {
 	content: "\E06F";
 }
 
-.fico-pdf:before {
+.fico-payment:before {
 	content: "\E070";
 }
 
-.fico-percent:before {
+.fico-payouts:before {
 	content: "\E071";
 }
 
-.fico-phone:before {
+.fico-pdf:before {
 	content: "\E072";
 }
 
-.fico-photo:before {
+.fico-percent:before {
 	content: "\E073";
 }
 
-.fico-pie-chart:before {
+.fico-pets:before {
 	content: "\E074";
 }
 
-.fico-place:before {
+.fico-phone:before {
 	content: "\E075";
 }
 
-.fico-place2:before {
+.fico-photo:before {
 	content: "\E076";
 }
 
-.fico-plane-down:before {
+.fico-pie-chart:before {
 	content: "\E077";
 }
 
-.fico-planner:before {
+.fico-place:before {
 	content: "\E078";
 }
 
-.fico-play:before {
+.fico-place2:before {
 	content: "\E079";
 }
 
-.fico-plus:before {
+.fico-plane-down:before {
 	content: "\E07A";
 }
 
-.fico-police:before {
+.fico-planner:before {
 	content: "\E07B";
 }
 
-.fico-pressure:before {
+.fico-play:before {
 	content: "\E07C";
 }
 
-.fico-profile:before {
+.fico-plus:before {
 	content: "\E07D";
 }
 
-.fico-proforma:before {
+.fico-police:before {
 	content: "\E07E";
 }
 
-.fico-promotion:before {
+.fico-pressure:before {
 	content: "\E07F";
 }
 
-.fico-protect:before {
+.fico-profile:before {
 	content: "\E080";
 }
 
-.fico-question-filled:before {
+.fico-proforma:before {
 	content: "\E081";
 }
 
-.fico-question:before {
+.fico-promotion:before {
 	content: "\E082";
 }
 
-.fico-r:before {
+.fico-protect:before {
 	content: "\E083";
 }
 
-.fico-remove:before {
+.fico-question-filled:before {
 	content: "\E084";
 }
 
-.fico-remove2:before {
+.fico-question:before {
 	content: "\E085";
 }
 
-.fico-rentals:before {
+.fico-r:before {
 	content: "\E086";
 }
 
-.fico-repair-2:before {
+.fico-remove:before {
 	content: "\E087";
 }
 
-.fico-repair:before {
+.fico-remove2:before {
 	content: "\E088";
 }
 
-.fico-reports:before {
+.fico-rentals:before {
 	content: "\E089";
 }
 
-.fico-reserves:before {
+.fico-repair-2:before {
 	content: "\E08A";
 }
 
-.fico-right-arrow:before {
+.fico-repair:before {
 	content: "\E08B";
 }
 
-.fico-right:before {
+.fico-reports:before {
 	content: "\E08C";
 }
 
-.fico-search:before {
+.fico-reserves:before {
 	content: "\E08D";
 }
 
-.fico-settings:before {
+.fico-right-arrow:before {
 	content: "\E08E";
 }
 
-.fico-show-more:before {
+.fico-right:before {
 	content: "\E08F";
 }
 
-.fico-signal:before {
+.fico-search:before {
 	content: "\E090";
 }
 
-.fico-sim:before {
+.fico-settings:before {
 	content: "\E091";
 }
 
-.fico-skype:before {
+.fico-show-more:before {
 	content: "\E092";
 }
 
-.fico-sort:before {
+.fico-signal:before {
 	content: "\E093";
 }
 
-.fico-speed-limit:before {
+.fico-sim:before {
 	content: "\E094";
 }
 
-.fico-statistics:before {
+.fico-skype:before {
 	content: "\E095";
 }
 
-.fico-status:before {
+.fico-sort:before {
 	content: "\E096";
 }
 
-.fico-sync:before {
+.fico-speed-limit:before {
 	content: "\E097";
 }
 
-.fico-tap:before {
+.fico-statistics:before {
 	content: "\E098";
 }
 
-.fico-tasks:before {
+.fico-status:before {
 	content: "\E099";
 }
 
-.fico-tax:before {
+.fico-surf:before {
 	content: "\E09A";
 }
 
-.fico-telegram:before {
+.fico-sync:before {
 	content: "\E09B";
 }
 
-.fico-time:before {
+.fico-tap:before {
 	content: "\E09C";
 }
 
-.fico-tire:before {
+.fico-tasks:before {
 	content: "\E09D";
 }
 
-.fico-transmission:before {
+.fico-tax:before {
 	content: "\E09E";
 }
 
-.fico-trunk:before {
+.fico-telegram:before {
 	content: "\E09F";
 }
 
-.fico-up:before {
+.fico-time:before {
 	content: "\E0A0";
 }
 
-.fico-upload:before {
+.fico-tire:before {
 	content: "\E0A1";
 }
 
-.fico-user-add:before {
+.fico-transmission:before {
 	content: "\E0A2";
 }
 
-.fico-user-find:before {
+.fico-trunk:before {
 	content: "\E0A3";
 }
 
-.fico-user:before {
+.fico-up:before {
 	content: "\E0A4";
 }
 
-.fico-vehicles:before {
+.fico-upload:before {
 	content: "\E0A5";
 }
 
-.fico-viber:before {
+.fico-user-add:before {
 	content: "\E0A6";
 }
 
-.fico-view:before {
+.fico-user-find:before {
 	content: "\E0A7";
 }
 
-.fico-vip:before {
+.fico-user:before {
 	content: "\E0A8";
 }
 
-.fico-wash:before {
+.fico-vehicles:before {
 	content: "\E0A9";
 }
 
-.fico-water:before {
+.fico-viber:before {
 	content: "\E0AA";
 }
 
-.fico-whatsapp:before {
+.fico-view:before {
 	content: "\E0AB";
 }
 
-.fico-wheel-chain:before {
+.fico-vip:before {
 	content: "\E0AC";
 }
 
-.fico-wheel-winter:before {
+.fico-wash:before {
 	content: "\E0AD";
 }
 
-.fico-wheel:before {
+.fico-water:before {
 	content: "\E0AE";
 }
 
-.fico-worldwide:before {
+.fico-whatsapp:before {
 	content: "\E0AF";
 }
 
-.fico-xlsx:before {
+.fico-wheel-chain:before {
 	content: "\E0B0";
+}
+
+.fico-wheel-winter:before {
+	content: "\E0B1";
+}
+
+.fico-wheel:before {
+	content: "\E0B2";
+}
+
+.fico-worldwide:before {
+	content: "\E0B3";
+}
+
+.fico-xlsx:before {
+	content: "\E0B4";
 }
